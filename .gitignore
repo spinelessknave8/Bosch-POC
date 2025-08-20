@@ -1,0 +1,6 @@
+#ignore dataset files
+microwave-usage-dataset.zip
+microwave-usage-dataset.csv
+
+#ignore notebook checkpoints
+.ipynb_checkpoints/
