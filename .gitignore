@@ -1,6 +1,6 @@
 #ignore dataset files
-microwave-usage-dataset.zip
-microwave-usage-dataset.csv
+microwave-usage-data.zip
+microwave_usage_dataset.csv
 
 #ignore notebook checkpoints
 .ipynb_checkpoints/
