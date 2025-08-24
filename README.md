@@ -4,7 +4,7 @@ The goal of this project is to explore how **non-personal data collected from ho
 
 - Researching and analyzing usage data to identify patterns
 - Testing machine learning algorithms suitable for non-personal data
-- Evaluating baseline models and data fusion techniques
+- Evaluating baseline models
 - Presenting findings that support product enhancement and business optimization
 
 
