@@ -1,6 +1,14 @@
 # Bosch-POC
 ## Overview
-This Proof of Concept (POC) explores how non-personal appliance usage data can be used to model energy consumption, understand user habits, and inform smart appliance design. The dataset used is sourced from Kaggle and contains microwave usage logs.
+The goal of this project is to explore how **non-personal data collected from home appliances** — specifically microwave usage logs — can be modeled to uncover user preferences, improve prediction outcomes, and derive actionable insights. This includes:
+
+- Researching and analyzing usage data to identify patterns
+- Testing machine learning algorithms suitable for non-personal data
+- Evaluating baseline models and data fusion techniques
+- Presenting findings that support product enhancement and business optimization
+
+
+The dataset used is sourced from Kaggle and contains microwave usage logs.
 
 ## Dataset
 Microwave Usage Dataset: https://www.kaggle.com/datasets/lgarg442/microwave-usage-data/data
