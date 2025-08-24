@@ -4,3 +4,6 @@ microwave_usage_dataset.csv
 
 #ignore notebook checkpoints
 .ipynb_checkpoints/
+
+#catboost
+catboost_info/
